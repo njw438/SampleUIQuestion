@@ -1,6 +1,6 @@
 **Build a Table of Names and Images**
 
-Write an app which displays a list of full names in a table view. The names should be imported from the *names.json* file in the repo above. This can be a simple, single view application that loads directly to the list. 
+Write an app which displays a list of full names in a table view. The names should be imported from the *names.json* file in the repo above. This can be a simple, single view application that loads directly to the list. Use any resources that you would normally have available to you during a work day.
 
 **Requirements**
 
